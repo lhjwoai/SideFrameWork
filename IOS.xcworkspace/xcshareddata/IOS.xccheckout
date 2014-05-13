@@ -5,36 +5,36 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>8471B1A3-603C-4080-8F8C-B829622D5CAA</string>
+	<string>497D6E20-5C5C-4BE3-822D-B0A22021A8F5</string>
 	<key>IDESourceControlProjectName</key>
 	<string>IOS</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>5788FE06-9F00-4886-9CDD-05EBEF7D2CC8</key>
-		<string>https://github.com/lhjwoai/IOS.git</string>
+		<key>5EB8B05D-B399-482D-80DF-D6AE4E2EF335</key>
+		<string>https://github.com/lhjwoai/SideFrameWork.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>IOS.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>5788FE06-9F00-4886-9CDD-05EBEF7D2CC8</key>
+		<key>5EB8B05D-B399-482D-80DF-D6AE4E2EF335</key>
 		<string>..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/lhjwoai/IOS.git</string>
+	<string>https://github.com/lhjwoai/SideFrameWork.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>5788FE06-9F00-4886-9CDD-05EBEF7D2CC8</string>
+	<string>5EB8B05D-B399-482D-80DF-D6AE4E2EF335</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>5788FE06-9F00-4886-9CDD-05EBEF7D2CC8</string>
+			<string>5EB8B05D-B399-482D-80DF-D6AE4E2EF335</string>
 			<key>IDESourceControlWCCName</key>
-			<string>new_MingShangQuan</string>
+			<string>SideFrameWork</string>
 		</dict>
 	</array>
 </dict>

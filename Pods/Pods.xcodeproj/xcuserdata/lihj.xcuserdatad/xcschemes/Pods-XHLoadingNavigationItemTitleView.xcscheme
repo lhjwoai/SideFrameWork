@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "7B0C3408D28542DAA53EA703"
+               BlueprintIdentifier = "BE003B1FF0E04BA3B81FB39B"
                BuildableName = "libPods-XHLoadingNavigationItemTitleView.a"
                BlueprintName = "Pods-XHLoadingNavigationItemTitleView"
                ReferencedContainer = "container:Pods.xcodeproj">
